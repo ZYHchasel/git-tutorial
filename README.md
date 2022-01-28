@@ -1,5 +1,5 @@
-# Git½Ì³Ì
+# Github
 
-   - feature-A
+  - feature-A
   - fix-B
   -feature-C
